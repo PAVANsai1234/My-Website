@@ -1,0 +1,185 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  color: #11999E;
+
+}
+h2{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+h3{
+font-family: 'Ravi Prakash', cursive;
+font-weight: normal;
+font-size: 30px;
+}
+a{
+color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #ff165d;
+}
+
+.topcontainer{
+  background-color: #cbf1f5;
+  position: relative;
+  padding: 100px;
+   }
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  color: black;
+  background-color: #fb929e;
+  position: relative;
+  top:100px;
+  margin: auto;
+padding: 30px 0 20px;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottomcloud{
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+
+.career{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Ravi Prakash', cursive;
+
+
+}
+.careersite{
+  font-family: 'Righteous', cursive;
+  position: relative;
+  background-color: #fcc8f8;
+}
+.careerbottom{
+  position: relative;
+  top:20px;
+  margin: auto;
+
+padding: 20px 0 10px;
+}
+.skillsite{
+  margin: auto;
+  text-align: center;
+  font-family: 'Ravi Prakash', cursive;
+  background-color: #a4e5d9;
+  background-size: contain;
+}
+.skillsitebottom{
+  text-align: center;
+  font-family: 'Ravi Prakash', cursive;
+  background-color: #a4e5d9;
+}
+table {
+   margin-left:auto;
+   margin-right:auto;
+ }
+
+ul{
+  list-style-position: inside;
+  text-align: left;
+  list-style-type: square;
+  margin: auto 50px auto 20px;
+}
+li{
+    margin: auto 50px auto 500px;
+}
+.about{
+  width: 50%;
+  margin: auto;
+}
+hr {
+  border: dotted #ff2e63 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.bottomrow{
+  position: relative;
+  bottom: 20px;
+  color: black;
+    font-family: 'Righteous', cursive;
+}
+.bottomrowanchor{
+  margin: 10px 20px;
+  color: black;
+    font-family: 'Righteous', cursive;
+}
+.bottomrowanchor:hover {
+  color: white;
+}
+.copyright{
+  color: black;
+  position: relative;
+  top: 20px;
+
+  padding: 20px 0;
+}
+.topcontainerinfo{
+
+  text-align: center;
+  font-family: 'Righteous', cursive;
+    size: 50px;
+  font-size: 30px;
+  position: relative;
+  bottom: 50px;
+}
+.topcontainerheadinginfo{
+    font-family: 'Ravi Prakash', cursive;
+     padding: 20px 0 30px 0;
+    margin: 30px 0px 0 0;
+    color: #0074e4;
+ }
+ .middlecontainerinfo{
+
+   position: relative;
+   bottom: 150px;
+   padding: 10px 0 20 0;
+   margin-bottom: 50px;
+
+
+ }
+ .bottomcontainerinfo{
+
+   position: relative;
+   bottom: 200px;
+   padding: 20px 20px 30px 20px;
+   margin: auto;
+   border: 100px ;
+
+    }
+ label{
+   font-family: 'Ravi Prakash', cursive;
+   font-size: 30px;
+ }
+ .contactinfobackground{
+   background-color: #f5cdaa;
+   height: 1000px;
+ }
+.submit{
+    font-family: 'Orbitron', sans-serif;
+  font-size: 25px;
+  color: white;
+  background-color: #ff2e63;
+}
+.boxsize{
+  font-size: 30px;
+}
